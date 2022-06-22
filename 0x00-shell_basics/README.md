@@ -1,1 +1,1 @@
-Display the contents list of your current directory in a long format
+Write a script that display current directory contents in a long format
